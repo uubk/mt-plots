@@ -1,5 +1,5 @@
+be61497 CI: Try to fix file fetch
+d4e3d3e CI: Fix typo
+a205912 ISLBench: Try to reproduce first figure from paper.
 e2b6f5c Matrix: Try to make tests type agnostic
 90159df Matrix: Add support for SSE2 for CI system
-5b5ad58 Matrix: Autodetect vector type width
-ec2f83a MatrixBench: Disable vectorizer again.
-dbe60bb CI: Stat the correct repo

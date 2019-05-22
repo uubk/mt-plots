@@ -2,6 +2,11 @@
 layout: default
 ---
 
+## Status (last 5 commits)
+```
+{% include_relative data/repo.txt %}
+```
+
 ## Matrix operation performance
 (last 5 commits)
 

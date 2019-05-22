@@ -15,3 +15,7 @@ layout: default
 ## ISL rowops performance
 
 {% include_relative data/checked_rowops.html %}
+
+## ISL speedup vs GMP
+
+{% include_relative data/rowops_hot_gmp.html %}

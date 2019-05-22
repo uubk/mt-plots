@@ -1,5 +1,5 @@
-41a5d0d Try to fix layout
-ab7c46e Try to add a simple index page
-00b4671 Import data from CI, commit  ()
-c0fb779 Add data folder
-b807378 Set theme jekyll-theme-architect
+dbe60bb CI: Stat the correct repo
+61409b1 CI: Put last five commits along with data
+ce8dfca CI: Remove freshness check before upload
+6c61492 CI: Also store graphs as artifacts
+6d556ff CI: Try to graph in this project and upload to GitHub

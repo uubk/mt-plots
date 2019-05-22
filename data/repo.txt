@@ -1,0 +1,5 @@
+41a5d0d Try to fix layout
+ab7c46e Try to add a simple index page
+00b4671 Import data from CI, commit  ()
+c0fb779 Add data folder
+b807378 Set theme jekyll-theme-architect

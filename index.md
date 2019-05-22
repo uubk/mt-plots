@@ -1,6 +1,5 @@
 ---
-layout: post
-title: MT Performance Data
+layout: default
 ---
 
 ## Matrix operation performance

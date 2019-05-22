@@ -1,5 +1,5 @@
+ec2f83a MatrixBench: Disable vectorizer again.
 dbe60bb CI: Stat the correct repo
 61409b1 CI: Put last five commits along with data
 ce8dfca CI: Remove freshness check before upload
 6c61492 CI: Also store graphs as artifacts
-6d556ff CI: Try to graph in this project and upload to GitHub

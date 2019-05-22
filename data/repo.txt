@@ -1,5 +1,5 @@
+e2b6f5c Matrix: Try to make tests type agnostic
+90159df Matrix: Add support for SSE2 for CI system
+5b5ad58 Matrix: Autodetect vector type width
 ec2f83a MatrixBench: Disable vectorizer again.
 dbe60bb CI: Stat the correct repo
-61409b1 CI: Put last five commits along with data
-ce8dfca CI: Remove freshness check before upload
-6c61492 CI: Also store graphs as artifacts

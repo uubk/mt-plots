@@ -1,5 +1,5 @@
+3b394d6 ISLBench: Fix another segfault.
+176d0b7 ISLBench: Fix segfault
+df80320 ISLBench: Actually run all configurations.
 af3caa7 CI: Plot first paper figure
 be61497 CI: Try to fix file fetch
-d4e3d3e CI: Fix typo
-a205912 ISLBench: Try to reproduce first figure from paper.
-e2b6f5c Matrix: Try to make tests type agnostic

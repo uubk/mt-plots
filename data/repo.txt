@@ -1,5 +1,5 @@
+f645439 ISLBench: Add limited vector type experiment
 e1f3e90 ISLBench: Add vector type version of rowops.
 3b394d6 ISLBench: Fix another segfault.
 176d0b7 ISLBench: Fix segfault
 df80320 ISLBench: Actually run all configurations.
-af3caa7 CI: Plot first paper figure

@@ -1,5 +1,5 @@
+192c672 Matrix: Fix data alignment
+7496562 Debug: Change matrix row load
 441afe8 Debug: Fix pivot calculation
 2b00f0d Debug: -O1 for islbench
 d4f7f4f Debug: Move Mask out of loop
-c8f4bda Debug: Try Tobias' 'manually masked' version
-222c44d Debug: Reduce vector bench to simple experiment

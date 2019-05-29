@@ -12,6 +12,10 @@ layout: default
 
 {% include_relative data/matrix.html %}
 
+### ISL rowops with vector types performance
+
+{% include_relative data/vector_bench.html %}
+
 ## ISL rowops performance
 
 {% include_relative data/checked_rowops.html %}

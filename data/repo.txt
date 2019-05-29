@@ -1,5 +1,5 @@
+5b4337e Matrix: Fix vector load/store performance
 3dfe255 Style: use correct cast
 9d1c9cf Style: static cast instead of c-style cast
 192c672 Matrix: Fix data alignment
 7496562 Debug: Change matrix row load
-441afe8 Debug: Fix pivot calculation

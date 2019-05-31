@@ -1,5 +1,5 @@
-913e781 Fix plotting
-acb52bf CI: Fix vector ops version plot
-5b4337e Matrix: Fix vector load/store performance
-3dfe255 Style: use correct cast
-9d1c9cf Style: static cast instead of c-style cast
+5a3c1a8 MatrixTest: Swap offset and pivot column
+eafb7e7 Debug: Don't multiply too early
+f9b8db4 Debug: Fix value broadcast
+d3c1b94 ISLBench: Fix typo in vector version
+38f240c Matrix: Add ISL rowops equaltiy test

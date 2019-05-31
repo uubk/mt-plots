@@ -1,5 +1,5 @@
-9fbebba ISLBench: Extend vector type function to n columns
-056d078 MatrixTest: Test ISL vector function with columns
-5a3c1a8 MatrixTest: Swap offset and pivot column
-eafb7e7 Debug: Don't multiply too early
-f9b8db4 Debug: Fix value broadcast
+7355eeb MatrixTest: Adjust for new semantics
+566a1bf ISLBench: Reenable 32 columns
+c08141d Matrix: Extend vector length to the maximum column size
+7703c9c Revert "ISLBench: Extend vector type function to n columns"
+523b0b1 Debug: Reset compile flags

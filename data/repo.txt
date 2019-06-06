@@ -1,5 +1,5 @@
+88b86eb Debug: Another go at LTO inlining
 35f244f Debug: Test LTO support
 203a02b Debug: Stash the checked vector rowops version
 0065e20 CI: Switch back to manual as this gitlab is too old
 c4a9e9f CI: Try to autodelay the ISL run
-18e3f87 VectorOps: Add inline hint

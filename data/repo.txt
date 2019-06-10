@@ -1,5 +1,5 @@
+7060a2e Benchmarks: Add new plots.
 05281ad Matrix: Update missed call-site
 b087759 Matrix: Fix padding for small matrices
 290cc6a ISLBench: Add checked vectorized rowops benchmarks
 9469a4f ISLBench: Fix checked version
-8540b12 VectorOps: Make use of new compiler support

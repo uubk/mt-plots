@@ -1,5 +1,5 @@
+1e5ddac Plots: Add time plot for GMP experiment.
+ac8a09e Plots: Add remaining plots.
+bad9d3a Plots: Update colors
 7060a2e Benchmarks: Add new plots.
 05281ad Matrix: Update missed call-site
-b087759 Matrix: Fix padding for small matrices
-290cc6a ISLBench: Add checked vectorized rowops benchmarks
-9469a4f ISLBench: Fix checked version

@@ -1,5 +1,5 @@
+5c5e22e Plots: Add missing directory
+012f006 Plots: Refactor file paths
+0632e54 Try a sequential color scheme with more contrast
 54cac37 Fix plot colors
 333c5e2 The *perf plots are not speedup plots. Fix them.
-1e5ddac Plots: Add time plot for GMP experiment.
-ac8a09e Plots: Add remaining plots.
-bad9d3a Plots: Update colors

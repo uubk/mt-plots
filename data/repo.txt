@@ -1,3 +1,6 @@
+ae50224 Retrigger libint build
+dde38fc Merge branch 'isl' of spclgitlab.ethz.ch:mt-maxf/libint into isl
+3288b5c Sort colors and types from small type to large and from bright to dark
 45260b2 ISLBench: Fix typo
 2eb557d ISLBench: Hardcode the correct number of columns
 a1068a9 Reset googletest submodule
@@ -5,4 +8,3 @@ af1f0d0 Merge branch 'isl' of spclgitlab.ethz.ch:mt-maxf/libint into isl
 4d19a91 Avoid the yellow color
 45bd393 Revert "Avoid the user of overly bright color"
 6f7b209 ISLBench: Try to hardcode < 32 column case
-8e7a454 Avoid the user of overly bright color

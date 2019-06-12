@@ -1,5 +1,8 @@
-5c5e22e Plots: Add missing directory
-012f006 Plots: Refactor file paths
-0632e54 Try a sequential color scheme with more contrast
-54cac37 Fix plot colors
-333c5e2 The *perf plots are not speedup plots. Fix them.
+45260b2 ISLBench: Fix typo
+2eb557d ISLBench: Hardcode the correct number of columns
+a1068a9 Reset googletest submodule
+af1f0d0 Merge branch 'isl' of spclgitlab.ethz.ch:mt-maxf/libint into isl
+4d19a91 Avoid the yellow color
+45bd393 Revert "Avoid the user of overly bright color"
+6f7b209 ISLBench: Try to hardcode < 32 column case
+8e7a454 Avoid the user of overly bright color

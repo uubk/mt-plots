@@ -1,5 +1,5 @@
+afe8a5a ISLBench: Change offset for normal tests and try
 338b508 Plots: Convert two more plots to log scale
 9e0afb9 Plots: Fixup existing plots
 064e92a Matrix: Shorten row type to actually used size
 8112ece Matrix.h: Fix typo from refactor
-74e8872 Matrix.h: Fix typo from refactor

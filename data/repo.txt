@@ -1,5 +1,5 @@
+9a3ebb0 CI: Plot sparsity
+c159e02 Plots: Fix isl comparison plot
+665e456 Plots: Improve sparsity plot
 c3803d7 ISLBench: Fix dummy matrix sparsity
 3296ff3 ISLBench: Try to fix sparsity
-6b873ff Add sparsity plot
-afe8a5a ISLBench: Change offset for normal tests and try
-338b508 Plots: Convert two more plots to log scale

@@ -16,10 +16,6 @@ layout: default
 
 {% include_relative data/vector_bench.html %}
 
-## ISL rowops performance
-
-{% include_relative data/checked_rowops.html %}
-
 ## Paper plots
 
 ### Rowops hot

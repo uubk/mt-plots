@@ -49,3 +49,7 @@ layout: default
 {% include_relative data/rowops_hot_vector_speedup.html %}
 
 {% include_relative data/rowops_hot_vector_perf.html %}
+
+### Impact of sparsity (hot)
+
+{% include_relative data/rowops_sparsity_time.html %}

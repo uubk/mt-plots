@@ -1,5 +1,5 @@
+17b3330 ISLBench: Benchmark continuous columns again
+8f2c84d ISLBench: Add sparsity-using benchmarks
+4775f2e ISLBench: Introduce output matrices across all
 22b4a26 Create more structured sparse matrices
 18a435d Increase precision again after benchmarks seem to work
-509c1ff Do not run with 100% sparsity
-ce82b8c Add argument names to gmp benchmark
-d4e5c40 Run with sparsity

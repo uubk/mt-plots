@@ -1,5 +1,5 @@
-04a8d8e CI: Fix plot and try rerun
-17b3330 ISLBench: Benchmark continuous columns again
-8f2c84d ISLBench: Add sparsity-using benchmarks
-4775f2e ISLBench: Introduce output matrices across all
-22b4a26 Create more structured sparse matrices
+a3c7977 Revert "Compile for the native architecture, don't focus on skylake-avx512"
+d6385db Compile for the native architecture, don't focus on skylake-avx512
+280b5a1 Drop the current row, not the pivot row from the rows to process - II
+7763779 ISLBench: Port AVX512 code to new matrix generation.
+7fb1056 Sort types according to their size

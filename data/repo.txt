@@ -1,5 +1,7 @@
-a3c7977 Revert "Compile for the native architecture, don't focus on skylake-avx512"
-d6385db Compile for the native architecture, don't focus on skylake-avx512
-280b5a1 Drop the current row, not the pivot row from the rows to process - II
-7763779 ISLBench: Port AVX512 code to new matrix generation.
-7fb1056 Sort types according to their size
+d81053a MatrixTest: Fix typos
+a131b58 CI: Fix typo
+19e2b6c Sparsity: Refactor 64 column handling
+98725d8 CI: Fix test path
+4aae4c2 Merge branch 'isl' into add-tests-for-all-isl-functions
+ec30560 Merge remote-tracking branch 'origin/sparsity-asserts' into isl
+2b312fc [SparsityInfo] Add asserts

@@ -1,7 +1,19 @@
+4e83632 Add GMP for cold performance
+5a01e04 Merge branch 'add-tests-for-all-isl-functions' into 'isl'
 d81053a MatrixTest: Fix typos
 a131b58 CI: Fix typo
 19e2b6c Sparsity: Refactor 64 column handling
 98725d8 CI: Fix test path
 4aae4c2 Merge branch 'isl' into add-tests-for-all-isl-functions
 ec30560 Merge remote-tracking branch 'origin/sparsity-asserts' into isl
+6faf527 CI: Call matrix test directly
+2a7cd0d MatrixTest: Add check for non-overflowing version
+0817de0 MatrixTest: Add missing variants
+092f048 ISLBench: Refactor out common test helpers and use them in MatrixTest
+4e2e02c MatrixTest: Set output=input in ISL bench
+b3a30d0 MatrixTest: Test all vectorized isl function variants
+387c02c isl_rowops: Make all functions have _exactly_ the same signature.
+923920c ISLBench: Move _16 column argument function so that the debug build doesn't complain about it being unused in the non-AVX512 binary
+a3c7977 Revert "Compile for the native architecture, don't focus on skylake-avx512"
+d6385db Compile for the native architecture, don't focus on skylake-avx512
 2b312fc [SparsityInfo] Add asserts

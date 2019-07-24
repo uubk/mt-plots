@@ -1,1 +1,1 @@
-1dfa742 Fix comment in macro
+c5a099b lcov exclusion marcers don't work in macros

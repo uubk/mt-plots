@@ -1,1 +1,1 @@
-3937ad5 Add documentation for maxIsObviouslyUnbounded
+edc4833 Add documentation for rowIsObviouslyNonIntegral

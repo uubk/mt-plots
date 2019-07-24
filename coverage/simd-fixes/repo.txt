@@ -1,0 +1,1 @@
+c31f13c VectorOpsTest: Add bare-bones any_of testcase

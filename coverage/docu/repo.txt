@@ -1,1 +1,1 @@
-11e924d Fix documentation
+48d4394 Remove braces from single-statement if.

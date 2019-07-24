@@ -1,3 +1,1 @@
-1888707 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-e0e8942 Merge branch 'docu' into 'master'
-89eb2be Replace manifestly with obviously and document minIsObviouslyUnbounded
+e0d3f34 README: Point to coverage report

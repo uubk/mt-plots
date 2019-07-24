@@ -1,1 +1,1 @@
-c5a099b lcov exclusion marcers don't work in macros
+576ae22 Drop old/dead code

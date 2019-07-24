@@ -1,0 +1,1 @@
+1dcd40d SimplexTest: Add some tests for detectImplicitEqualities

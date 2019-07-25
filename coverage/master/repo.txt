@@ -1,4 +1,8 @@
-7abf29c Merge branch 'extra-tests' into 'master'
-1dcd40d SimplexTest: Add some tests for detectImplicitEqualities
-edd4686 SimplexTest: Add a little bit of coverage to detectRedundant
-0cb5402 SimplexTest: Refactor out common subfunctions
+f553e7a Merge branch 'docu' into 'master'
+e23b57d Fix documentation and drop braces
+1685758 Drop spurious backslash
+431bc53 Remove braces from single-statement if.
+6f79513 Fix documentation
+28933e9 Add documentation for rowIsObviouslyNonIntegral
+6512d6c Document rowIsObviouslyZero
+be6a638 Add documentation for maxIsObviouslyUnbounded

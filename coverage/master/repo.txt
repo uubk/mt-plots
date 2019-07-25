@@ -1,8 +1,1 @@
-f553e7a Merge branch 'docu' into 'master'
-e23b57d Fix documentation and drop braces
-1685758 Drop spurious backslash
-431bc53 Remove braces from single-statement if.
-6f79513 Fix documentation
-28933e9 Add documentation for rowIsObviouslyNonIntegral
-6512d6c Document rowIsObviouslyZero
-be6a638 Add documentation for maxIsObviouslyUnbounded
+8da6b3e Make Simplex::separationType private

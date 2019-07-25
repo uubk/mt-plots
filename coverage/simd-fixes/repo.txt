@@ -1,1 +1,1 @@
-dea31f8 SIMD: Hopefully finally fix any_of
+46ef0ba SIMD: Also test upper half-vector

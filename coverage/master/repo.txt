@@ -1,1 +1,4 @@
-5c1a68f Drop braces around single-statement ifs and loops
+7abf29c Merge branch 'extra-tests' into 'master'
+1dcd40d SimplexTest: Add some tests for detectImplicitEqualities
+edd4686 SimplexTest: Add a little bit of coverage to detectRedundant
+0cb5402 SimplexTest: Refactor out common subfunctions

@@ -1,1 +1,1 @@
-8da6b3e Make Simplex::separationType private
+ef5fa81 SimplexTest: Let's only use one pair of parameters

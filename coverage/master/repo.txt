@@ -1,1 +1,2 @@
-7065f82 [Printer] Use 'inline' keyword to avoid multiple definitions
+faee434 Merge branch 'simplex-avoid-named-operations' into 'master'
+721590d [Simplex] Rewrite and -> &&, or ||, not -> !

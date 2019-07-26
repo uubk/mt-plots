@@ -1,1 +1,1 @@
-3b52967 Simplex: isEquality: return true if the constraint has been marked zero
+9b29581 Simplex: Uncomment some lines that were accidentally commented in undoOp.

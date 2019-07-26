@@ -1,6 +1,1 @@
-be2e9b0 Merge branch 'simplex-addEqUnchecked'
-b70c008 Simplex: initialize n_eq in the Simplex constructor
-9dfa070 Simplex: Implement addEqUnchecked. This is called from tableauFromBasicMap.
-e688510 Simplex: clang-format
-7299834 Simplex: Add documentation for getConstant, varIsConstant, rowIsObviouslyConstant, getRoundedSampleValue, and rowReachedValue.
-68248e6 Simplex: In varIsConstant and getConstant, use std::optional instead of pointers. There were two varIsConstant's with different semantics; rename one to rowIsObviouslyConstant. Rename reached to rowReachedValue. Fix a bug where varIsConstant was calling rowIsObviouslyConstant instead of getConstant. Change parameter names to be in line with the other methods. Add some more runtime sanity checks.
+3e0f3f8 Simplex: clang-format

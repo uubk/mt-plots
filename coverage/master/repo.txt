@@ -1,1 +1,1 @@
-3e0f3f8 Simplex: clang-format
+3b52967 Simplex: isEquality: return true if the constraint has been marked zero

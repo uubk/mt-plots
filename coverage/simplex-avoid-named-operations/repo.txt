@@ -1,0 +1,1 @@
+721590d [Simplex] Rewrite and -> &&, or ||, not -> !

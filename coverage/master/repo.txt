@@ -1,3 +1,1 @@
-b2bc710 Merge branch 'drop-single-line-braces' into 'master'
-0cc527e Merge branch 'master' into 'drop-single-line-braces'
-f886b2a Drop braces around single-statement ifs and loops
+7675934 Remove the last use of a non-32 column tableau

@@ -1,1 +1,1 @@
-6f84074 Document ineqType and separationType
+679e83e Document ineqType and separationType

@@ -1,1 +1,1 @@
-63f0685 clang format Simplex.h
+7065f82 [Printer] Use 'inline' keyword to avoid multiple definitions

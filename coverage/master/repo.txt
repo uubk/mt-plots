@@ -1,1 +1,1 @@
-ffc6a28 Make sure all 'unreachable' statements are single-line statements
+63f0685 clang format Simplex.h

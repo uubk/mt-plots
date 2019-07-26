@@ -1,1 +1,1 @@
-7299834 Simplex: Add documentation for getConstant, varIsConstant, rowIsObviouslyConstant, getRoundedSampleValue, and rowReachedValue.
+e688510 Simplex: clang-format

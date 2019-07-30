@@ -1,0 +1,1 @@
+f878c69 Simplex: Refactor and document detectImplicitEqualities.

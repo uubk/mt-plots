@@ -1,1 +1,1 @@
-e88bcca Simplex.h remove single-statement '{}' and early return
+afcefab Simplex: detectImpicitEqualities: fix compile error.

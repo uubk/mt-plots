@@ -1,1 +1,13 @@
-343b629 ISLBench: Add hot transprecision benchmark.
+df65e48 Merge branch 'master' into transprecision_loop
+e88bcca Simplex.h remove single-statement '{}' and early return
+f086f36 clang-format src/Simplex.h
+9b29581 Simplex: Uncomment some lines that were accidentally commented in undoOp.
+a8bf6b7 Simplex: Add documentation for dropRow
+3b52967 Simplex: isEquality: return true if the constraint has been marked zero
+5a671ad Simplex: addEq: unrestrict the unknown after calling toCol to match isl
+afe561f Simplex: Fix bug where addEq sometimes prematurely returns
+54b54c1 Simplex: Fix issue where relaxConstraint incorrectly checked from redundant and dead unknowns.
+b2d450a Simplex: Make constraintIsRedundant assert that the unknown is not dead, instead of asserting it to be a row.
+7395042 Simplex: In seperationType, normalize the row before checking the denominator. This ensures that when all coefficients are actually integers, the denominator is 1.
+120791e Simplex: Support removing variables in undoOp
+e6c8a3f Simplex: Fix bug in normalizeRow where the common denominator wasn't considered and wasn't updated.

@@ -1,1 +1,1 @@
-afcefab Simplex: detectImpicitEqualities: fix compile error.
+963437b Add getRedundant test

@@ -1,1 +1,1 @@
-eb17ab0 Add even simplex testcase that fails getRedundant
+a54ef54 Adjust template arguments

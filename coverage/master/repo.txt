@@ -1,1 +1,1 @@
-963437b Add getRedundant test
+eb17ab0 Add even simplex testcase that fails getRedundant

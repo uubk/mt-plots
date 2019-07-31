@@ -1,1 +1,1 @@
-e2601db Add missing call to detectRedundant to test case
+8dc8442 Drop unnecessary braces

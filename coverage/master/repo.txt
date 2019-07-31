@@ -1,3 +1,1 @@
-4049937 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-a54ef54 Adjust template arguments
-f85c2ed Revert "Merge branch 'simd-fixes'"
+f2b2619 Fix SimplexTest.getRedundant1

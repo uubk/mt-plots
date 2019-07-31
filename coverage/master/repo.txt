@@ -1,1 +1,1 @@
-f2b2619 Fix SimplexTest.getRedundant1
+e2601db Add missing call to detectRedundant to test case

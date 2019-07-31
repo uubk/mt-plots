@@ -1,4 +1,1 @@
-bfd1281 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-8dc8442 Drop unnecessary braces
-e2601db Add missing call to detectRedundant to test case
-f2b2619 Fix SimplexTest.getRedundant1
+e440c91 TransprecisionRowops: Add output parameter

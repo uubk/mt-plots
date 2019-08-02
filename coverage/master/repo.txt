@@ -1,1 +1,1 @@
-86b21e2 Disable test
+a0fdece Revert "Further simplify SimplexTest.getRedundant2"

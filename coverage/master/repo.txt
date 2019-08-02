@@ -1,1 +1,1 @@
-f6eb1d8 Simplex: fix undoing relaxConstraint
+55cceed Simplex: shiftVariable: use libint::SafeInteger instead of int64_t for shift

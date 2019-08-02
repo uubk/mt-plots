@@ -1,0 +1,1 @@
+a002ed5 Simplex: enable the detectRedundant tests that were previously failing.

@@ -1,1 +1,1 @@
-a0fdece Revert "Further simplify SimplexTest.getRedundant2"
+007c6c1 clang-format simplex-test

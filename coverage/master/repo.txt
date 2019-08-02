@@ -1,5 +1,1 @@
-b780140 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-476783f Bump libcxx
-c291b81 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-269c04c Bump libcxx
-7a7b369 Build: Fix clang-format in nonstandard location
+f6eb1d8 Simplex: fix undoing relaxConstraint

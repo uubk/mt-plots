@@ -1,1 +1,1 @@
-383ea1d Simplex: detectImplicitEqualities: don't use the marked stuff, just look in reverse order through the constraints. This fixes the issue where the iteration order was different from that in isl.
+d7c669a Simplex: rename nredundant to n_redundant

@@ -1,1 +1,1 @@
-179cd65 SimplexTest: Test ineqtype::redundant
+945325d SimplexTest: Cover missing ineqType cases

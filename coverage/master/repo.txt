@@ -1,1 +1,1 @@
-42a66fd Transprecision: Add sparse rowops benchmark
+383ea1d Simplex: detectImplicitEqualities: don't use the marked stuff, just look in reverse order through the constraints. This fixes the issue where the iteration order was different from that in isl.

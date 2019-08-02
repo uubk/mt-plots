@@ -1,1 +1,1 @@
-8c2d5c6 Fix build
+179cd65 SimplexTest: Test ineqtype::redundant

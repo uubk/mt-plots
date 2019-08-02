@@ -1,1 +1,1 @@
-945325d SimplexTest: Cover missing ineqType cases
+6371f2c Simplify SimplexTest.getredundant2

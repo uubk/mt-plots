@@ -1,1 +1,1 @@
-f878c69 Simplex: Refactor and document detectImplicitEqualities.
+56e9fa0 Simplex: Add summary line to header comments for unknownIsRelevant and rowIsObviouslyNotZero for consistency

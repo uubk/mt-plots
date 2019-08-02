@@ -1,1 +1,4 @@
+8f9e548 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
 c5dff59 Add ineqType test
+55cceed Simplex: shiftVariable: use libint::SafeInteger instead of int64_t for shift
+704baf8 Simplex: shiftVariable: fix bug where the constant term was not being updated correctly for rows

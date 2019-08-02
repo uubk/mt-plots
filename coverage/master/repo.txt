@@ -1,1 +1,1 @@
-55cceed Simplex: shiftVariable: use libint::SafeInteger instead of int64_t for shift
+c5dff59 Add ineqType test

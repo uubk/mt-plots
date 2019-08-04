@@ -1,1 +1,5 @@
+6f502d2 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
 5a61e67 Extend simplex parser to handle getRedundant2 test case
+ac7bb3c SimplexParser: pnitialize coefficient array
+007c6c1 clang-format simplex-test
+4668e47 Move test case to our expression parser

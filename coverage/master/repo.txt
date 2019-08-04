@@ -1,1 +1,1 @@
-bebe58e SimplexTest: clang-format
+cdcf0a6 SimplexTest: do not use parser

@@ -1,1 +1,5 @@
+6d17146 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
 95b175b Add ineqType unit test
+1787e6a Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
+cac52d0 Transprecision: Add missing rowops variant and benchmarks
+f76d391 Clang format

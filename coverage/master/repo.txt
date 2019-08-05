@@ -1,1 +1,1 @@
-cdcf0a6 SimplexTest: do not use parser
+f5501fd TransprecisionMatrix: Remove visit from hot loop

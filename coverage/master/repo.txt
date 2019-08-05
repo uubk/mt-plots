@@ -1,1 +1,1 @@
-f5501fd TransprecisionMatrix: Remove visit from hot loop
+4f1925b Transprecision: Remove int8_t support

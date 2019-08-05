@@ -1,1 +1,1 @@
-f8133f9 Simplex: fix build
+730d9fb Simplex: clang-format

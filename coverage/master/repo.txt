@@ -1,2 +1,1 @@
-1787e6a Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-cda60c3 SimplexTest: disable detectRedundant3
+95b175b Add ineqType unit test

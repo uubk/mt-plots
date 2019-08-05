@@ -1,3 +1,1 @@
-ebd22df Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-4f1925b Transprecision: Remove int8_t support
-f5501fd TransprecisionMatrix: Remove visit from hot loop
+cda60c3 SimplexTest: disable detectRedundant3

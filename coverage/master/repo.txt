@@ -1,17 +1,1 @@
-79cc77d Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-730d9fb Simplex: clang-format
-40fb81c Simplex: signOfMin: fix bug where restoreRow was called for unknowns in column position.
-b2bda23 Simplex: signOfMin: slight refactor. Factor out a common subexpression into compareRowSampleValue.
-f8133f9 Simplex: fix build
-f59c639 Simplex: signOfMin: match isl behaviour exactly when returning after finding no more pivots
-b0639a2 Simplex: fix build
-6edb6ec Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-f6e4b87 Simplex: conDropEntries: add documentation
-564ad20 Simplex: markRedundant: add documentation
-c2bc881 Simplex: Remove unknownIsRelevant since it is not used anymore
-0a205cf Simplex: Remove `marked` from `Unknown`, since it is not used anymore
-b475f55 Simplex: unrestrictConstraint: add documentation
-31cdf6e Simplex: findPivotRow: add documentation
-c48db87 Simplex: findPivotRow: take an std::optional<size_t> for the row to be skipped instead of a pointer to an unknown
-f67718c SimplexTest: clang-format
-bd624fe Simplex: toRow: fix inaccurate documentation
+71c913e Add SimplexTest.ineqType2

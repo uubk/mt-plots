@@ -1,7 +1,1 @@
-1e365f0 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-d1a917a Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-68a4465 SimplexTest: add a test for unrestrictConstraint and for rolling it back
-29d5876 SimplexTest: simplify test ineqType and enable it since it now passes
-82363fb Simplex: fix bug where unrestrictConstraint was restricting instead of unrestricting...
-969dd70 Simplex: fix bug where undoing unrestrictConstraint resulted in unrestricting again
-88d37e8 Simplex: restoreRow: assert the the unknown is a row
+b0639a2 Simplex: fix build

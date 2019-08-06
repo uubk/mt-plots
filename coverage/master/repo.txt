@@ -1,1 +1,1 @@
-d64b0ea Parser: add a couple of simple expressions
+fede6db Revert "SimplexTest: do not use parser"

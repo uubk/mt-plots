@@ -1,1 +1,2 @@
+36a3e7c Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
 d75526b Update SimplexTest.ineqType2

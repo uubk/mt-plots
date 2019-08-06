@@ -1,1 +1,1 @@
-883cf08 Clang format
+d75526b Update SimplexTest.ineqType2

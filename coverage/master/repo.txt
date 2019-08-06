@@ -1,1 +1,1 @@
-71c913e Add SimplexTest.ineqType2
+c82c122 Parser: add a couple of simple expressions

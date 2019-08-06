@@ -1,1 +1,1 @@
-fede6db Revert "SimplexTest: do not use parser"
+6728724 Parse all kinds of comparision operators

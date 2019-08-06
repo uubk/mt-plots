@@ -1,4 +1,1 @@
-06c85d6 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-6728724 Parse all kinds of comparision operators
-fede6db Revert "SimplexTest: do not use parser"
-d64b0ea Parser: add a couple of simple expressions
+883cf08 Clang format

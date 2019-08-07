@@ -1,1 +1,1 @@
-bfd6e22 Add missing '4' to simplex ineqType test cases
+e56cad6 Further reduce ineq test case

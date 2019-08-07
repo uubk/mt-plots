@@ -1,1 +1,1 @@
-fce24be Reduce tableau size
+a9fb5e7 Simplex: Internalize number of rows/columns

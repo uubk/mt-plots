@@ -1,12 +1,11 @@
+511ecf0 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
 7ebb2f1 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-a9fb5e7 Simplex: Internalize number of rows/columns
-c0270b5 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-b426c74 Simplex: Make the normalizer static
-fce24be Reduce tableau size
-e56cad6 Further reduce ineq test case
-bfd6e22 Add missing '4' to simplex ineqType test cases
-35eab34 Add simplex test case which uses unchecked rows
-b68749f Add test case for textual constraint parsing
-3bd4491 ISLBench: Disable int8 for checked benchmarks
-36a3e7c Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-a6ee5f5 TransprecisionMatrix: Add statically typed benchmarks
+978dccb SimplexTest: enable ineqType2 test case
+0484408 SimplexTest: simplify ineqType2 test case
+b001808 Simplex: clang-format
+2e65b3c Simplex: fix bug in ineqType where it was assumed  that if a constraint is always negative-valued and the tableau is integer, the sample value must be at most -1.
+39863ba SimplexTest: use AddInEq in an old test case
+60afe0e Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
+7a48443 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
+603c114 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
+46d1311 Simplex: add more dump output

@@ -1,1 +1,1 @@
-e56cad6 Further reduce ineq test case
+fce24be Reduce tableau size

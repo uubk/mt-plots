@@ -1,1 +1,12 @@
+7ebb2f1 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
 a9fb5e7 Simplex: Internalize number of rows/columns
+c0270b5 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
+b426c74 Simplex: Make the normalizer static
+fce24be Reduce tableau size
+e56cad6 Further reduce ineq test case
+bfd6e22 Add missing '4' to simplex ineqType test cases
+35eab34 Add simplex test case which uses unchecked rows
+b68749f Add test case for textual constraint parsing
+3bd4491 ISLBench: Disable int8 for checked benchmarks
+36a3e7c Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
+a6ee5f5 TransprecisionMatrix: Add statically typed benchmarks

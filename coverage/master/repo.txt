@@ -1,1 +1,1 @@
-b68749f Add test case for textual constraint parsing
+35eab34 Add simplex test case which uses unchecked rows

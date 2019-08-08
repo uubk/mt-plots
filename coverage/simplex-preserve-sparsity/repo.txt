@@ -1,1 +1,1 @@
-f7e48b4 Sparsity: Only use when applicable
+d329b95 Simplex/addRow: Do single dispatch

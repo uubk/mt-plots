@@ -1,7 +1,1 @@
-e3d4f25 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-acace86 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-34670ae Merge branch 'simplex-preserve-sparsity'
-f7e48b4 Sparsity: Only use when applicable
-b131780 Remove leftover debug output
-9504a67 Fix heap overflow
-8452c90 Simplex: Preserve sparsity
+603e797 ineqType: fix bug due to the query inequality being marked restricted, causing the existing constraints to be marked redundant. Enable test ineqType4 that now passes

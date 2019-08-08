@@ -1,5 +1,1 @@
-77986f4 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-907f002 Transprecision: Fix sparsity/zerocheck benchmarks
-511ecf0 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-98558d0 TransprecisionMatrix: Fix visitRow
-494bad4 Simplex: Reduce number of dispatches in pivot.
+03d3202 SimplexTest: enable test which now passes. Fix other tests which were asserting the previous incorrect behaviour

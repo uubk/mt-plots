@@ -1,1 +1,1 @@
-603e797 ineqType: fix bug due to the query inequality being marked restricted, causing the existing constraints to be marked redundant. Enable test ineqType4 that now passes
+ea5e41f Remove leftover comment

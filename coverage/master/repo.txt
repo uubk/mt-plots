@@ -1,1 +1,1 @@
-b5253fb [TransprecisionMatrix] define move-assign operator
+a6c8a76 Drop '{}' around single line statements

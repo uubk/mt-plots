@@ -1,0 +1,1 @@
+c4f167b Simplex: disable sparsity, and disable [Transprecision]Matrix::checkSparsity if NO_SPARSITY is set

@@ -1,1 +1,1 @@
-c4f167b Simplex: disable sparsity, and disable [Transprecision]Matrix::checkSparsity if NO_SPARSITY is set
+38049eb Simplex: add some debug methods to expose row_var, col_var, n_redundant, live_col_begin for checking the tableau ordering in isl end to end tests.

@@ -1,1 +1,1 @@
-4bae4df Simplex: add a parameter in findPivot to say whether the row that we are finding a pivot for is considered when finding a pivot row. This fixes test ineqType5, which we now enable.
+a94328d [Simplex::shiftVariable] Try moving to row in both directions irrespective of the shift direction if we are relaxing the constraint but not if we are unrelaxing the constraint. This improves our pivot-parity with isl.

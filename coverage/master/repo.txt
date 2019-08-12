@@ -1,1 +1,1 @@
-802ddf4 Simplex: fix indent
+1695b66 [Simplex::normalizeRow]: replace 2nd uint16 by int16

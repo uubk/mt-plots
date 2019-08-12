@@ -1,1 +1,1 @@
-31b9c80 Simplex::addRow: remove redundant checkSparsity call
+a0005cc Simplex: add some debug methods to expose row_var, col_var, n_redundant, live_col_begin for checking the tableau ordering in isl end to end tests.

@@ -1,1 +1,1 @@
-a94328d [Simplex::shiftVariable] Try moving to row in both directions irrespective of the shift direction if we are relaxing the constraint but not if we are unrelaxing the constraint. This improves our pivot-parity with isl.
+b1e192e Print 'error' in front of error messages

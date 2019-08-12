@@ -1,1 +1,5 @@
+3c5fe2c Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
 16a2efa Simplex: Disable fast normalization until transprecision is enabled for now
+de68290 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
+fa505ea Simplex: Make fixed-precision int32_t by default
+ba58a61 Simplex: Add INT type

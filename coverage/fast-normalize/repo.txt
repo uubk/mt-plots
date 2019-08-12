@@ -1,1 +1,1 @@
-d0a2619 Simplex: Hopefully fix fast normalize
+98b8ab7 Normalize: Fix passthrough of upper vector part

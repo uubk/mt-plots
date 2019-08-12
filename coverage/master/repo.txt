@@ -1,1 +1,1 @@
-4529aa4 FastNorm: Make -Werror happy
+10bd847 [Simplex::normalizeRow] outline scalar code path

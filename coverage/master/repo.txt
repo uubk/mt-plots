@@ -1,1 +1,1 @@
-10bd847 [Simplex::normalizeRow] outline scalar code path
+189ecf6 [Simplex::normalizeRowScalar] load vector via the stack

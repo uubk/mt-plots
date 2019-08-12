@@ -1,1 +1,13 @@
+1c47bf3 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
 189ecf6 [Simplex::normalizeRowScalar] load vector via the stack
+b82053a [Simplex::normalizeRowScalar] do not divide in case gcd is 1
+aec59e4 [Simplex::normalizeRowScalar] early-abort in case gcd is 1
+10bd847 [Simplex::normalizeRow] outline scalar code path
+4529aa4 FastNorm: Make -Werror happy
+006dd74 FastGCD: Revert unintended changes
+787dbd7 FastGCD: Add debug output
+1695b66 [Simplex::normalizeRow]: replace 2nd uint16 by int16
+1f28564 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
+33a9269 Fast normalize: Turn off by default
+98b8ab7 Normalize: Fix passthrough of upper vector part
+d0a2619 Simplex: Hopefully fix fast normalize

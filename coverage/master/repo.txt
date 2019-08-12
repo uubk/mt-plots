@@ -1,1 +1,1 @@
-ae9081d Simplex::addRow: hoist redundant statement
+31b9c80 Simplex::addRow: remove redundant checkSparsity call

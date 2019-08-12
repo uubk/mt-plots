@@ -1,1 +1,1 @@
-46bca81 Match assert message to fix failing test case
+4bae4df Simplex: add a parameter in findPivot to say whether the row that we are finding a pivot for is considered when finding a pivot row. This fixes test ineqType5, which we now enable.

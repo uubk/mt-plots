@@ -1,0 +1,1 @@
+d0a2619 Simplex: Hopefully fix fast normalize

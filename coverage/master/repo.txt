@@ -1,1 +1,1 @@
-b1e192e Print 'error' in front of error messages
+ae107c1 [Simplex::normalizeRowScalar] load vector via the stack

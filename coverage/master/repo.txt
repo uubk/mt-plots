@@ -1,1 +1,1 @@
-3fe9ac8 Do not pass rowVector by reference to dispatch function
+ae9081d Simplex::addRow: hoist redundant statement

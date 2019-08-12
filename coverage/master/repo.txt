@@ -1,2 +1,1 @@
-de68290 Merge branch 'master' of spclgitlab.ethz.ch:mt-maxf/libint
-76bff7a Revert submodule libcxx which was accidentally bumped in commit bbc73d5e9666155925dcc3329e65d0367827302b
+16a2efa Simplex: Disable fast normalization until transprecision is enabled for now

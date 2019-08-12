@@ -1,1 +1,1 @@
-98b8ab7 Normalize: Fix passthrough of upper vector part
+33a9269 Fast normalize: Turn off by default

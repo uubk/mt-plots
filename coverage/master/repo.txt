@@ -1,1 +1,1 @@
-8fff73d Simplex: fix indent
+914e270 [Simplex::addRow] vectorize the 'owns_row' case

@@ -1,1 +1,1 @@
-f296162 Simplex: Reenable fast normalization by default.
+e7937d7 Simplex: Add feature gate for LCM

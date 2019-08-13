@@ -1,1 +1,1 @@
-997a0e9 clang format
+8cb4589 Simplex: Fix macro definitions

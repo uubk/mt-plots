@@ -1,1 +1,1 @@
-8cb4589 Simplex: Fix macro definitions
+2cb10e0 Simplex: Enable transprecision by default

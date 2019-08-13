@@ -1,1 +1,1 @@
-7b3939a Simplex::addRow: Add fast LCM codepath
+6b97a57 [Simplex::signOfMax] implement early return in case origin == 1. In this case we only care whether the return is negative or not, so if we know it's 0 we can already return. This improves pivot-parity with isl.

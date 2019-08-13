@@ -1,1 +1,1 @@
-2cb10e0 Simplex: Enable transprecision by default
+f296162 Simplex: Reenable fast normalization by default.

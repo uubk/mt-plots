@@ -1,1 +1,1 @@
-e0219c3 [SparsityInfo] add swapColumns
+8709cac TransprecisionMatrix: Get rid of std::visit completely

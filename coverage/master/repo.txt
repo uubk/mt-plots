@@ -1,1 +1,1 @@
-1749570 Simplex::addRow: Fix overflow
+9aaafbc Simplex::addRow: Add experimental AVX512 fastpath

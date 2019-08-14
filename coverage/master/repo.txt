@@ -1,1 +1,1 @@
-dc08d01 [Simplex::updateConstraintAfterMove] the constraint may not exist in the tableau. In this case, we don't need to update row_var or col_var.
+fbb113b [Simplex::addRow] Use fixed-size array

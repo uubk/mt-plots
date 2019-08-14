@@ -1,1 +1,1 @@
-a471041 Simplex: remove signOfMin and move that code into constraintIsRedundant, making the code much easier to understand.
+5fe5666 TransprecisionMatrix: Start to clean up dispatch functions

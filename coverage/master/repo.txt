@@ -1,1 +1,1 @@
-03a8140 Simplex: fix indent
+a471041 Simplex: remove signOfMin and move that code into constraintIsRedundant, making the code much easier to understand.

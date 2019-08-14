@@ -1,1 +1,1 @@
-fbb113b [Simplex::addRow] Use fixed-size array
+1749570 Simplex::addRow: Fix overflow

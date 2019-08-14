@@ -1,1 +1,1 @@
-9d1afaa SimplexTest: enable test getRedundant3 which now passes
+e0219c3 [SparsityInfo] add swapColumns

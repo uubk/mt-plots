@@ -1,1 +1,1 @@
-6aa5a32 Simplex::addRow: Add fastpath
+a7440aa Simplex::addRow: Fix overflow

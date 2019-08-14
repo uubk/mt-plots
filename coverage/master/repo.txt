@@ -1,1 +1,1 @@
-9aaafbc Simplex::addRow: Add experimental AVX512 fastpath
+310d2e3 Simplex: fix build

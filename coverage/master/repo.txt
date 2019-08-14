@@ -1,1 +1,1 @@
-e75cc96 [TransprecisionMatrix] do not (accidentally) copy matrix in visitMatrixConst
+cbd1b27 [TransprecisionMatrix] do not check sparsity in NDEBUG mode

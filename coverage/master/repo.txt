@@ -1,1 +1,1 @@
-d3d55d5 Revert "clang-format everything"
+857e67b [Matrix::swapRows] vectorize

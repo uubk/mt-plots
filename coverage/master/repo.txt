@@ -1,1 +1,1 @@
-78e3131 Disable sparsity tests if sparsity is not compiled in
+d3d55d5 Revert "clang-format everything"

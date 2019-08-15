@@ -1,1 +1,1 @@
-8d2b7ac Revert "[TransprecisionMatrix] Set the smallest transprecision size to int32_t"
+6c241cc [Simplex] outline normalizeRow(VECTOR row, ...)

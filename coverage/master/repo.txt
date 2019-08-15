@@ -1,1 +1,1 @@
-4b467cc [Simplex:pivot_loop] Also normalize in the fast code path
+4f38f80 Drop outdated comment

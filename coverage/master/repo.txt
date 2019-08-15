@@ -1,1 +1,1 @@
-6c241cc [Simplex] outline normalizeRow(VECTOR row, ...)
+4b467cc [Simplex:pivot_loop] Also normalize in the fast code path

@@ -1,1 +1,1 @@
-cbd1b27 [TransprecisionMatrix] do not check sparsity in NDEBUG mode
+8d2b7ac Revert "[TransprecisionMatrix] Set the smallest transprecision size to int32_t"

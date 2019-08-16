@@ -1,1 +1,1 @@
-c047d39 Implement normalize_epi16
+04ef057 Fix build

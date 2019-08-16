@@ -1,1 +1,1 @@
-a42c25d Revert "[Simplex] do not recompute sparsity in constructor"
+04240a4 [Matrix::swapRows] update sparsity data

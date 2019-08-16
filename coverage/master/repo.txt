@@ -1,1 +1,1 @@
-f8a6d36 Get rid of the std::optional in the hot loop
+e652a28 Remove some dynamic control flow

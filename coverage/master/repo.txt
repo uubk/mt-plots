@@ -1,1 +1,1 @@
-4742603 [Simplex::ineqType] don't call rowIsObviouslyREdundant since it always returns false in this case
+1fcb3da Reuse already read element

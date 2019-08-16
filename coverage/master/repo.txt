@@ -1,1 +1,1 @@
-a12fbb9 Simplex: Move findPivot inside a dispatched block
+4742603 [Simplex::ineqType] don't call rowIsObviouslyREdundant since it always returns false in this case

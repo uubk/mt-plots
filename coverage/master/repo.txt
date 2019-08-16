@@ -1,1 +1,1 @@
-88f0ad8 Fix broken tests
+c047d39 Implement normalize_epi16

@@ -1,1 +1,1 @@
-1fcb3da Reuse already read element
+5bd0771 Dispatch the accesses in the pivot loop

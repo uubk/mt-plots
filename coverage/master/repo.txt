@@ -1,1 +1,1 @@
-be0ae52 Make markEmpty private
+a12763f Remove unused function getTableau.

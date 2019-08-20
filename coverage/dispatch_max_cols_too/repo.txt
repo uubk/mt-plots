@@ -1,1 +1,1 @@
-e836ed6 [WIP] Parameterize Transprecision by list of integer types
+627dd99 Use detail::visit instead of manually unrolled versions

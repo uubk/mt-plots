@@ -1,1 +1,1 @@
-59c5496 Revert broken revert revert
+deca082 Add missing simd operator overloads

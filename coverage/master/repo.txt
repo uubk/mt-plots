@@ -1,1 +1,1 @@
-deca082 Add missing simd operator overloads
+d00bda8 Fix tests

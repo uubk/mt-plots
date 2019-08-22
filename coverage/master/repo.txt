@@ -1,1 +1,1 @@
-c86d864 isl_rowops: Reenable overflow checks
+231a153 Use correct size for stack array

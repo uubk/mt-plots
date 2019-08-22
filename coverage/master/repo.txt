@@ -1,1 +1,1 @@
-d00bda8 Fix tests
+cbe90ea Use size_t instead of unsigned int for MAX_COL

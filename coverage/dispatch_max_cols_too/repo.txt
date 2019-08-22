@@ -1,1 +1,1 @@
-1afafef Rename IntegerSeq to IntegerList and fix typos
+47cec79 Abort on overflows if we cannot expand to a wider type

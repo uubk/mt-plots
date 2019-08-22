@@ -1,1 +1,1 @@
-627dd99 Use detail::visit instead of manually unrolled versions
+4681619 Fix compilation issue (will squash this commit later)

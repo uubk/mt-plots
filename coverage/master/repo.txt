@@ -1,1 +1,1 @@
-da8bcb1 Simplex: drop braces for single-line if
+5cd3ee7 [Simplex] run clang-format

@@ -1,1 +1,1 @@
-210fe70 [Simplex::normalizeRow] return early to simplify code [NFC]
+4ac1a24 [Simplex::normalizeRow] spezialize for cases where MAX_COL < 16

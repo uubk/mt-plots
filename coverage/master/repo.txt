@@ -1,1 +1,1 @@
-6a94d90 clang-format the 'src/' directory
+876b456 [Simplex] drop optimization TODO note from the slow path

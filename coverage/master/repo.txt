@@ -1,1 +1,1 @@
-4ac1a24 [Simplex::normalizeRow] spezialize for cases where MAX_COL < 16
+1e849e5 [TransprecisionMatrix] Remove the fixed max column restriction

@@ -1,1 +1,1 @@
-231a153 Use correct size for stack array
+6a94d90 clang-format the 'src/' directory

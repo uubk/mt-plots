@@ -1,1 +1,1 @@
-85a1be0 SimplexTest:: add addEq test to test previously uncovered code path
+1f94dcc Normalize: Stop using incorrect vector size in int16_t fastpath

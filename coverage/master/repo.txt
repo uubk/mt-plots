@@ -1,1 +1,1 @@
-4df5c04 Matrix/TransprecisionMatrix: Disable auto-vector-widening
+aa29b3a SimplexTest: add test for addIneq where the new constraint is already redundant

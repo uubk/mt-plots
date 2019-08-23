@@ -1,1 +1,1 @@
-496fd4a SimplexTest: add test for cutToHyperplane where cutting makes the tableau empty.
+4df5c04 Matrix/TransprecisionMatrix: Disable auto-vector-widening

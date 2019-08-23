@@ -1,1 +1,1 @@
-6285f74 SimplexTest: add tests for sampleIsInteger
+da8bcb1 Simplex: drop braces for single-line if

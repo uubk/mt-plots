@@ -1,1 +1,1 @@
-bb9ee52 [Simplex::pivot_loop] don't check for pivot-row in sparsity loop
+c9d3497 [FastGCD] replace std::abort with 'unreachable'

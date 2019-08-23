@@ -1,1 +1,1 @@
-01d405b [Simplex] correct spelling in comments
+4397558 Reenable SIMPLEX_FAST_NORM by default

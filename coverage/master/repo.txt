@@ -1,1 +1,1 @@
-4397558 Reenable SIMPLEX_FAST_NORM by default
+bb9ee52 [Simplex::pivot_loop] don't check for pivot-row in sparsity loop

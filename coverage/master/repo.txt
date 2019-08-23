@@ -1,1 +1,1 @@
-876b456 [Simplex] drop optimization TODO note from the slow path
+01d405b [Simplex] correct spelling in comments

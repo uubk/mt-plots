@@ -1,1 +1,1 @@
-5cd3ee7 [Simplex] run clang-format
+496fd4a SimplexTest: add test for cutToHyperplane where cutting makes the tableau empty.

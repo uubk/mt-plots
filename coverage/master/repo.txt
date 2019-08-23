@@ -1,1 +1,1 @@
-12bdd29 [Simplex::cutToHyperplane] extend constraints
+210fe70 [Simplex::normalizeRow] return early to simplify code [NFC]

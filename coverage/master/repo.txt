@@ -1,1 +1,1 @@
-1f94dcc Normalize: Stop using incorrect vector size in int16_t fastpath
+6285f74 SimplexTest: add tests for sampleIsInteger

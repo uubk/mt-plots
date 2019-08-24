@@ -1,1 +1,1 @@
-956b5a0 [TransprecisonMatrix] Start with at least 16 columns for now
+fcf7219 [Simplex] Re-enable the simplex string test case

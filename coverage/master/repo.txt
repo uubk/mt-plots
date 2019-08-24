@@ -1,1 +1,1 @@
-4a06cb3 [Simplex::addRow] use early continue to reduce indentation
+78a193a [Simplex::addRow] simplify pragmas that enable fast LCM

@@ -1,1 +1,1 @@
-3286d96 [[TP]Matrix] overload operator() as a shortcut for readElement
+ea1cf03 [Simplex] drop braces around single statements

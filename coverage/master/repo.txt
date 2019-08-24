@@ -1,1 +1,1 @@
-ea1cf03 [Simplex] drop braces around single statements
+4a06cb3 [Simplex::addRow] use early continue to reduce indentation

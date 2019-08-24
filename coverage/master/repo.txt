@@ -1,1 +1,1 @@
-b746032 [Unreachable] better separate line number from function name
+b98345a Re-enable sparsity

@@ -1,1 +1,1 @@
-e0629c9 [Simplex::addRow] drop broken assertion check
+d882b38 [Simplex::addRow] further separate out one of the common cases to enable constant folding

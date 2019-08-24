@@ -1,1 +1,1 @@
-b65f0e1 [Simplex::addRow] remove old code guarded by preprocessor macros
+f4e56cd [Simplex] work around a compiler bug

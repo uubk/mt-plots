@@ -1,1 +1,1 @@
-78a193a [Simplex::addRow] simplify pragmas that enable fast LCM
+e0629c9 [Simplex::addRow] drop broken assertion check

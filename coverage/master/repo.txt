@@ -1,1 +1,1 @@
-d882b38 [Simplex::addRow] further separate out one of the common cases to enable constant folding
+cde53cc [Simplex::addRow] fix typo

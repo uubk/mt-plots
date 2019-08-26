@@ -1,1 +1,1 @@
-cde53cc [Simplex::addRow] fix typo
+5710a99 [Simplex::{ineqType,separationType}] add documentation

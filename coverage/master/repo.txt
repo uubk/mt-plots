@@ -1,1 +1,1 @@
-5710a99 [Simplex::{ineqType,separationType}] add documentation
+af67b33 [TransprecisionMatrix::extend] get the correct value of MAX_COLs. This closes the issue where expansion wasn't working.

@@ -1,1 +1,1 @@
-ddc1107 [Simplex::toCol] add documentation
+d0e09a6 [Simplex] fix recently introduced typos

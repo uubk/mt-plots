@@ -1,1 +1,1 @@
-e6d1fb5 [Simplex::findRow] use dispatch to improve performance
+159f392 [Simplex] drop empty rows between comments and function definition

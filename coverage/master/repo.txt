@@ -1,1 +1,1 @@
-d1abf4e [Simplex] drop 'else' after continue
+3520529 [Simplex::restoreRow] improve documentation. add header comment.

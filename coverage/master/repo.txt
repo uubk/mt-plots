@@ -1,1 +1,1 @@
-57e2945 CI: Try to fix ISL build
+6f34ecd CI: Rename benchmark job to benchmark-*

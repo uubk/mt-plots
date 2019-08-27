@@ -1,1 +1,1 @@
-1d2ada2 [Matrix] disable more functionality that is only used for sparsity
+e9bc0dd TransprecisionMatrix: Remove legacy dispatch functions

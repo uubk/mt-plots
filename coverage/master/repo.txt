@@ -1,1 +1,1 @@
-766f9cb clang-format
+38196dc [Simplex::rowIsObviouslyRedundant] dispatch for performance

@@ -1,1 +1,1 @@
-159f392 [Simplex] drop empty rows between comments and function definition
+d1abf4e [Simplex] drop 'else' after continue

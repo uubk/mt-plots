@@ -1,1 +1,1 @@
-e3dc28d [Simplex] make fast-pivot a template option
+1d2ada2 [Matrix] disable more functionality that is only used for sparsity

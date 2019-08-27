@@ -1,1 +1,1 @@
-7cd7706 [Simplex::findPivot] fix documentationf
+766f9cb clang-format

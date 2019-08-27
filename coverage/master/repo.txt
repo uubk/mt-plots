@@ -1,1 +1,1 @@
-3520529 [Simplex::restoreRow] improve documentation. add header comment.
+e3dc28d [Simplex] make fast-pivot a template option

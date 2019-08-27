@@ -1,1 +1,1 @@
-38196dc [Simplex::rowIsObviouslyRedundant] dispatch for performance
+e6d1fb5 [Simplex::findRow] use dispatch to improve performance

@@ -1,1 +1,1 @@
-3ea6f08 [CI]: Add current base cases and switch to measureing
+bee4e6c [CI]: Don't build isl's failing testcase

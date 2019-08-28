@@ -1,0 +1,1 @@
+44277b8 TransprecisionMatrix: replace resizer with TransprecisionMatrix::widenIntegerType which uses the integer type list and expands accordingly.

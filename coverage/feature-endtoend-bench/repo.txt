@@ -1,1 +1,1 @@
-bee4e6c [CI]: Don't build isl's failing testcase
+26b28c1 [CI]: Add end-to-end benchmark driver

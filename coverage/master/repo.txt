@@ -1,1 +1,1 @@
-7975c06 [TypeList::GetNextTy ]Add a comment about errors
+5d24788 [simplex::Options] Add support to toggle fast LCM

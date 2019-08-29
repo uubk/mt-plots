@@ -1,1 +1,1 @@
-e8ffbe6 Add statistics write
+7b6697f [Tracer]: Move variables to .cpp

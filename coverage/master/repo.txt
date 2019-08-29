@@ -1,1 +1,1 @@
-a8edb5c [Tracer]: Make UBSAN happy
+b573776 [Tracer] drop redundant inline keyword to avoid a warning

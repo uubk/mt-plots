@@ -1,1 +1,1 @@
-526ff43 Clang format
+e8ffbe6 Add statistics write

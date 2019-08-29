@@ -1,0 +1,1 @@
+0749ebd Some always inline

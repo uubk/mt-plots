@@ -1,1 +1,1 @@
-0a38106 remove .clang-format file (and fix formatting issues)
+54ed794 Revert "Some always inline"

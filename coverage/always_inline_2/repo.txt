@@ -1,0 +1,1 @@
+d6e97d9 Annotate the hot pivot loop with always_inline

@@ -1,1 +1,1 @@
-c117566 [Matrix] Do not move sparsity in no-sparsity mode
+e55acec [Simplex::updatePointers] elimnate dead code

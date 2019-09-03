@@ -1,1 +1,1 @@
-e55acec [Simplex::updatePointers] elimnate dead code
+a8defb5 [TransprecisionMatrix::widenIntegerType] remove dead code

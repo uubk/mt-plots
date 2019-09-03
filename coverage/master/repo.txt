@@ -1,1 +1,1 @@
-4ae75ae [TransprecisionMatrix] outline swapRowWithCol
+c117566 [Matrix] Do not move sparsity in no-sparsity mode

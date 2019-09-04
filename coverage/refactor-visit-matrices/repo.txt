@@ -1,0 +1,1 @@
+77b854e [TransprecisionMatrix::updatePointersFromMatrix] Add updatePointersFromMatrix which takes a matrix reference and updates the sparsity pointer from it. Use this in runWithMatricesRetryOnOverflow, thus doing the whole thing without any addition dispatches.

@@ -1,1 +1,1 @@
-c2d0b56 Sparsity: Make mask_out_rows do what it says
+c754feb [TransprecisionMatrix] inline widenIntegerType and updatePointersFromMatrix.

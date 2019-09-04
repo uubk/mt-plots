@@ -1,0 +1,1 @@
+05e5f21 [TransprecisionMatrix] properly guard sparsity

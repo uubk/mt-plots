@@ -1,1 +1,1 @@
-c754feb [TransprecisionMatrix] inline widenIntegerType and updatePointersFromMatrix.
+d1678e3 [TransprecisionMatrix::runWithMatricesRetryOnOverflow] fix bug where updatePointersFromMatrix was called on an invalidated reference

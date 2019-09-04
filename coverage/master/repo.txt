@@ -1,1 +1,1 @@
-f7ff97f [Simplex]: findPivotRow: Try to use sparsity
+f125563 [TransprecisionMatrix::runWithMatricesRetryOnOverflow] fix bug where updatePointersFromMatrix was called on an invalidated reference

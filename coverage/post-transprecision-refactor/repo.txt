@@ -1,0 +1,1 @@
+c754feb [TransprecisionMatrix] inline widenIntegerType and updatePointersFromMatrix.

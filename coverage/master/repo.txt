@@ -1,1 +1,1 @@
-a8defb5 [TransprecisionMatrix::widenIntegerType] remove dead code
+2faf139 [TransprecisionMatrix] clang-format

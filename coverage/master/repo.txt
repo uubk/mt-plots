@@ -1,1 +1,1 @@
-ac3d336 Gitignore: Generalize build output
+f7ff97f [Simplex]: findPivotRow: Try to use sparsity

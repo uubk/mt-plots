@@ -1,1 +1,1 @@
-f125563 [TransprecisionMatrix::runWithMatricesRetryOnOverflow] fix bug where updatePointersFromMatrix was called on an invalidated reference
+8fa86f2 [Simplex]: Disable inlining of normalization slowpath

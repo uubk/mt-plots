@@ -1,1 +1,1 @@
-8fa86f2 [Simplex]: Disable inlining of normalization slowpath
+ff5a93d [Unreachable] throw compile error for missing semicolon

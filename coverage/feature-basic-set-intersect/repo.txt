@@ -1,1 +1,1 @@
-809b028 [BasicSet::intersect] add function and test
+7916cde [BasicSetTest] use parser in Intersect test

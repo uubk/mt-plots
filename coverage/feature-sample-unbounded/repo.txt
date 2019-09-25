@@ -1,0 +1,1 @@
+847829f [BasicSetTest] add tests for findSample

@@ -1,1 +1,1 @@
-158a766 [TransprecisionMatrix::getIdentityFunction] move factory function next to other constructors
+47a66a3 [Simplex] move the implementation into a separate file, Simplex-impl.h

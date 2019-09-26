@@ -1,1 +1,1 @@
-46d725c [Matrix, TransprecisionMatrix, LinearTransform] rename addScaledColumn to addToColumn. Rename {add,subtract}Column to sourceColumn. Switch the argument order from (target, source) to (source, target)
+bcf2235 [BasicSet::removeRedundantConstraints] fix comment

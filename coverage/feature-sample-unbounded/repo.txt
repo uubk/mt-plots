@@ -1,1 +1,1 @@
-8038d9f [Simplex::findSampleUnbounded] improve comment
+ce817ba [SafeInteger::ceilDiv] add comment explaining why no overflow occurs

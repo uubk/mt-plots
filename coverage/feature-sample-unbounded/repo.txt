@@ -1,1 +1,1 @@
-872cc30 [BasicSet::findSampleUnbounded] add documentation
+52964fe [LinearTransform] slightly improve comments

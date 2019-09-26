@@ -1,1 +1,1 @@
-1881d1c [BasicSet] add const qualifiers. Update the state only in findSample instead of doing it in some of the called functions
+46d725c [Matrix, TransprecisionMatrix, LinearTransform] rename addScaledColumn to addToColumn. Rename {add,subtract}Column to sourceColumn. Switch the argument order from (target, source) to (source, target)

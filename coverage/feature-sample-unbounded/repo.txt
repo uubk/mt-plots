@@ -1,1 +1,1 @@
-52964fe [LinearTransform] slightly improve comments
+8038d9f [Simplex::findSampleUnbounded] improve comment

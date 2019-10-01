@@ -1,1 +1,1 @@
-d4dcb6e [Set::{subtract,complement}] add function and tests
+4a3485f Revert "[Constraint::equalityFromInequality] fix typo in error message"

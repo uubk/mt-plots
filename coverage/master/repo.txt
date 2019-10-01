@@ -1,1 +1,1 @@
-19bd1f5 clang-format
+4a3485f Revert "[Constraint::equalityFromInequality] fix typo in error message"

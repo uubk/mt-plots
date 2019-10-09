@@ -1,1 +1,1 @@
-2d6ad7a [Simplex]: Explicitly initialize new constraints
+7d009aa [Simplex]: Unknown: Initialize all fields in constructor.

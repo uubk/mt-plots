@@ -1,1 +1,1 @@
-4a3485f Revert "[Constraint::equalityFromInequality] fix typo in error message"
+7d009aa [Simplex]: Unknown: Initialize all fields in constructor.

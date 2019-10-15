@@ -1,1 +1,1 @@
-7d009aa [Simplex]: Unknown: Initialize all fields in constructor.
+ffd7055 [Simplex]: Allow addRow constant term overflow.

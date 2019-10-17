@@ -1,1 +1,1 @@
-ffd7055 [Simplex]: Allow addRow constant term overflow.
+cc9fecb [Utils] create Utils.h and put concat there instead of in Simplex-impl.

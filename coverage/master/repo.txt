@@ -1,1 +1,1 @@
-cc9fecb [Utils] create Utils.h and put concat there instead of in Simplex-impl.
+fed93e4 clang-format

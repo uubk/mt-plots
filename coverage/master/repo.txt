@@ -1,1 +1,1 @@
-fed93e4 clang-format
+6400b91 [GBRSimplex::computeWidthAndDuals] add extra check and comment for a condition which should never occur

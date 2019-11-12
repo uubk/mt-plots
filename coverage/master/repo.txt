@@ -1,1 +1,1 @@
-2777a86 [Simplex::findPivotRow] if sparsity set is empty no row is found
+33598dc [Simplex::findPivotRow] avoid redundant dereference

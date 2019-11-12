@@ -1,1 +1,1 @@
-6400b91 [GBRSimplex::computeWidthAndDuals] add extra check and comment for a condition which should never occur
+2777a86 [Simplex::findPivotRow] if sparsity set is empty no row is found

@@ -1,1 +1,1 @@
-be5686c [Simplex::findPivotRow] move !direction case into separate dispatch
+023117b [Simplex::findPivotRow] fix compilation

@@ -1,0 +1,1 @@
+252b2f9 Make the vector a template type in a few Simplex functions

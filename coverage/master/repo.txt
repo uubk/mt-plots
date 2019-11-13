@@ -1,1 +1,1 @@
-33598dc [Simplex::findPivotRow] avoid redundant dereference
+119352a [Simplex::normalizeRow] drop dynamic column dispatch

@@ -1,1 +1,1 @@
-119352a [Simplex::normalizeRow] drop dynamic column dispatch
+be5686c [Simplex::findPivotRow] move !direction case into separate dispatch

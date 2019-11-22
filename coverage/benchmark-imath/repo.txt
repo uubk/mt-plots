@@ -1,1 +1,1 @@
-ea8ae14 [CI]: Store all plot formats
+0aca34d [CI]: Plot runtime in benchmark run

@@ -1,1 +1,1 @@
-c1e9518 [CI]: Switch to released dockerhub image
+f2c251b [CI]: Split off coverage check

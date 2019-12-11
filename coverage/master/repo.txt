@@ -1,1 +1,1 @@
-d387b1a [Matrix] Simplify sparsity ifdefs
+8abb24b [SparsityInfo::swapColumns] remove unnecessary matrix argument

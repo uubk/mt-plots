@@ -1,1 +1,1 @@
-a273ab0 Format everything
+dee8673 Fix build of static libraries with tracer disabled

@@ -1,1 +1,1 @@
-32a026e Fix build of static libraries with tracer disabled
+3104d5a Fix build

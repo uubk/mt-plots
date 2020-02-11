@@ -1,1 +1,1 @@
-ea1b4ea end-to-end benchmarks: plot both with and without remove-redundant
+3926a11 benchmark: resort end-to-end plots

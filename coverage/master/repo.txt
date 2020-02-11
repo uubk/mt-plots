@@ -1,1 +1,1 @@
-63ff28a Shorten captions in end-to-end benchmarking plot
+ea1b4ea end-to-end benchmarks: plot both with and without remove-redundant

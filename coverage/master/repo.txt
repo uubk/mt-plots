@@ -1,1 +1,1 @@
-a959564 Rebuild to perf-test static caching of vectors
+7da48d9 Rebuild to perf-test quick zero check

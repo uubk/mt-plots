@@ -1,1 +1,1 @@
-8af9e70 Format code
+1a30f12 No need to update RowSparsity in case no sparsity information is used

@@ -1,1 +1,1 @@
-4f28592 Revert "Advoid sparsity updates in normalizeRow"
+fc635ce Export binaries in CI run

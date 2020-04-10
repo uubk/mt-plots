@@ -1,1 +1,1 @@
-f07ce16 added bounds checks
+ca9493f proper index management, pt3

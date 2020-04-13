@@ -1,1 +1,1 @@
-ca9493f proper index management, pt3
+9c2ad27 cut Case

@@ -1,1 +1,1 @@
-9c2ad27 cut Case
+f695954 adj_ineq case

@@ -1,1 +1,1 @@
-abd76ce [CI]: Fix license linter, for real this time
+7173edb Fix check for CI

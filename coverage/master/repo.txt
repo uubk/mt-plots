@@ -1,1 +1,1 @@
-01aec1d Make it easy to configure benchmark set
+9764b4f Do not use sparsity when there are more than 64 rows

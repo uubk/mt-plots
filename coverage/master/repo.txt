@@ -1,1 +1,1 @@
-6fd483a Rename Vector to V to not cover libint::Vector
+ea7f7b3 clang-format

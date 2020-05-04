@@ -1,1 +1,1 @@
-98db022 Update to trigger rebuild after isl changes
+8618a73 Simplex: move pivot loop into pivot_loop function

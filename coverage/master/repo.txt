@@ -1,1 +1,1 @@
-f554f9d Simplex: use size_t for pivot_loop
+f054c7b Simplex: make generic pivot_loop code more readable

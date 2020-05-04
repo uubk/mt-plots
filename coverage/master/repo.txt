@@ -1,1 +1,1 @@
-8618a73 Simplex: move pivot loop into pivot_loop function
+f554f9d Simplex: use size_t for pivot_loop

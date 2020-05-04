@@ -1,1 +1,1 @@
-f054c7b Simplex: make generic pivot_loop code more readable
+d4b2748 Simplex: simplify main loop further

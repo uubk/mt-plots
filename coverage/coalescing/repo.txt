@@ -1,1 +1,1 @@
-ab269c2 commented out set::equal tests
+d62f17d more functionality for adjEqCase

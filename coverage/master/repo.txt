@@ -1,1 +1,1 @@
-b6f4a78 Simplex: simplify main loop further
+d624f4b Revert "Simplex: make generic pivot_loop code more readable"

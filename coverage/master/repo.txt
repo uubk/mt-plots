@@ -1,1 +1,1 @@
-d624f4b Revert "Simplex: make generic pivot_loop code more readable"
+edd94f1 Do not always run slowPivotVersion

@@ -1,1 +1,1 @@
-edd94f1 Do not always run slowPivotVersion
+fa60c9d Fix bug in generic simplex code

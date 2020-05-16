@@ -1,1 +1,1 @@
-144b42e Rebuild
+891ad73 Shorten benchmark time

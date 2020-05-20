@@ -1,1 +1,1 @@
-596c64e Revert "Add LLVM's APInt support"
+482de56 Revert "Add GMP support in SafeInteger"

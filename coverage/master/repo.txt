@@ -1,1 +1,1 @@
-482de56 Revert "Add GMP support in SafeInteger"
+8870142 [SimplexTest] remove tests that were asserting the previous behaviour of ineqtype on empty tableaus.

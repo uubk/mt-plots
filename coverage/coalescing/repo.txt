@@ -1,1 +1,63 @@
-d62f17d more functionality for adjEqCase
+7a2eae8 Merge branch 'master' into coalescing
+16fdfc5 Merge branch 'master' of https://spclgitlab.ethz.ch/mt-maxf/libint
+482de56 Revert "Add GMP support in SafeInteger"
+dd90dd5 Rebuild
+1414af6 Rebuild to test GMP resistant imath
+e074940 Add GMP support in SafeInteger
+596c64e Revert "Add LLVM's APInt support"
+5bb4f9e Add LLVM's APInt support
+5da4dd2 make analyze benchmark work again
+04e05ef Fix typo
+d697a54 Update plot
+d4084bf Disable script to make CI work again|
+00a1d46 Speedup CI
+82e7db0 Limit output
+84c78f2 Rebuild
+a589b2b Rebuild
+6f82e27 Rebuild
+891ad73 Shorten benchmark time
+144b42e Rebuild
+0130609 Do not run manual code
+5d22a99 Rebench
+a6773ff Rebuild
+9e594f4 Rebuild
+2606264 Rebuild
+5df6f77 Rebuild
+b5a6bfa Benchmark the combined inputs
+93c5666 [GCD]: Fix and re-add benchmark build
+e242270 [ISLBench]: Try to fix incorrect offsets
+af2d4cd Also build imath no-sio
+713dd18 Update sparsity information correctly
+4f28a64 Add option to disable fast pivot
+31f08e0 Simplex: do not compare signed and unsigned integers
+8c54c0b Update comment: the conditional check is only a performance optimization
+58f6f77 Zero out columns before dropping them
+fa60c9d Fix bug in generic simplex code
+edd94f1 Do not always run slowPivotVersion
+b708856 Shorten names in pivot_loop
+d624f4b Revert "Simplex: make generic pivot_loop code more readable"
+f17489a Revert "Simplex: simplify main loop further"
+4e7ee3f Revert "Simplex: simplify main loop further"
+d6cc9a9 Revert "Fix compilation of slow-path"
+359d0d3 Fix compilation of slow-path
+b6f4a78 Simplex: simplify main loop further
+d4b2748 Simplex: simplify main loop further
+f054c7b Simplex: make generic pivot_loop code more readable
+f554f9d Simplex: use size_t for pivot_loop
+8618a73 Simplex: move pivot loop into pivot_loop function
+98db022 Update to trigger rebuild after isl changes
+479648f Rebuild for no-exception performance numbers in isl/bench_libint_coalesce
+5292bb1 Build without exceptions
+9689830 Add license into new file
+be240cd Analyze the performance results
+c0cd93e Move to full benchmarks
+9764b4f Do not use sparsity when there are more than 64 rows
+01aec1d Make it easy to configure benchmark set
+ea7f7b3 clang-format
+6fd483a Rename Vector to V to not cover libint::Vector
+af40996 Remove comments about randomly failing tests
+efb2425 Set::Set(oNDim) should construct universe sets
+7173edb Fix check for CI
+5478e88 Disable two randomly failing test cases. Let's see if that unbreaks CI
+95b8d8b Disable assertion test case in release mode
+798d4de Make it possible to run benchmarks with ssh key

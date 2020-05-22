@@ -1,1 +1,1 @@
-8870142 [SimplexTest] remove tests that were asserting the previous behaviour of ineqtype on empty tableaus.
+8bff6de [Simplex::shiftVariable] fix pivot-parity with isl

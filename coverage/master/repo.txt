@@ -1,1 +1,1 @@
-7e09007 use a single repetition to speedup benchmark time again
+a171055 use vector instead of stack for undo stack

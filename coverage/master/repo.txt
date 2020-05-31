@@ -1,1 +1,1 @@
-e96185f Pre-allocate the tableaus
+80faac7 Rebuild for do-not-copy-tableau

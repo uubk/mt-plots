@@ -1,1 +1,1 @@
-9844f7b Speedup zero check
+8b6d868 Repeat perf-tests 10 times to check if numbers are more stable

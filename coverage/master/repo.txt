@@ -1,1 +1,1 @@
-8b6d868 Repeat perf-tests 10 times to check if numbers are more stable
+d62bd2c report more speedups

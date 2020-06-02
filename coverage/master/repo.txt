@@ -1,1 +1,1 @@
-b6fb439 Rebuild
+c54877e [Set::isUniverse] now checks if set is marked empty

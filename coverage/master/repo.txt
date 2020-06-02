@@ -1,1 +1,1 @@
-7a56c17 Rebuild
+ff5cad6 Print some more output for perf-analysis

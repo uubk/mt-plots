@@ -1,1 +1,1 @@
-abf3a18 Rebuild for isl-repo update: do not sign-extend small integers
+ec420c4 Rebuild: only add optimization if we use sio
